@@ -1,0 +1,56 @@
+body{
+    color:#ddd;
+    padding:2em 2em 3em;
+    font-family:sans;
+    line-height:1.5;
+    background:#000;
+}
+h2{
+    margin-bottom:.5em;
+    margin-top:3em;
+}
+table{
+    max-width:1200px;
+}
+td,th{
+    padding:1em;
+}
+a{
+    text-decoration:none;
+}
+a:link{
+    color:#88e;
+}
+a:visited{
+    color:#c9f;
+}
+a:hover, a:active{
+    color:#ddf;
+}
+.column_http,.column_https{
+    width:50%;
+}
+.status{
+    font-size:71%;
+}
+.status-scrolling{
+    overflow:auto;
+    overflow-y:scroll;
+    overflow-x:auto;
+    height:50px;
+    white-space:normal;
+    word-break:break-all;
+}
+.status-ok{
+    background:#141;
+}
+.status-error{
+    background:#411;
+}
+.related-links{
+    position:absolute;
+    right:0;
+    top:0;
+    padding:1em;
+    font-size:80%;
+}

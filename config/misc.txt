@@ -1,0 +1,14 @@
+mediawikiwidgets.org
+semantic-mediawiki.org
+wikiba.se
+wikiconference.org
+wikihoster.net
+wikipedia.fr
+wikistudies.org
+www.mediawikiwidgets.org
+www.semantic-mediawiki.org
+www.wikiba.se
+www.wikiconference.org
+www.wikihoster.net
+www.wikipedia.fr
+www.wikistudies.org
