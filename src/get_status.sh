@@ -82,7 +82,7 @@ print_html_status() {
 			sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g' | \
 			sed ':a;N;$!ba;s/\n/<br>/g')
 	fi
-	echo "$status" | head -n 1 | grep "HTTP/1.[01] [23].." > /dev/null && \
+	echo "$status" | head -n 1 | grep -E 'HTTP/[12](.[01])? [23]..' > /dev/null && \
 		print_html_ok "$status" || print_html_error "$status"
 }
 
