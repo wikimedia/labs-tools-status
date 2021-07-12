@@ -1,4 +1,3 @@
-blog.wikimedia.es
 wikimedia.at
 wikimedia.be
 wikimedia.ca
@@ -26,6 +25,7 @@ wikimedia.pt
 wikimedia.se
 wikimediachile.cl
 wikimediadc.org
+wiki.wikimedia.es
 www.wikimedia.at
 www.wikimedia.be
 www.wikimedia.ca
@@ -53,3 +53,5 @@ www.wikimedia.org.za
 www.wikimedia.pt
 www.wikimedia.se
 www.wikimediachile.cl
+listas.wikimedia.es
+servidor.wikimedia.es
