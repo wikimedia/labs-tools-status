@@ -11,7 +11,6 @@ declare -Ar EMAILS=(
 	#  Add '' strings to prevent spam: 'use''r@mym''ail.com'
 	#
 	['wikiba.se']='lydia.pi''ntscher@wikimedia.de'
-	['www.wikiba.se']='lydia.pi''ntscher@wikimedia.de'
 
 	['wikilov.es']=$WMES
 	['wikimedia.es']=$WMES
